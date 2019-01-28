@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/licence-MIT-lightgray.svg" alt="Licence MIT"/>
 </p>
 
-## Ответы на вопросы домашнего задания
+## Ответы на вопросы
 * находятся в файле [README.pdf](/README.pdf)
 
 ## Main functionality
