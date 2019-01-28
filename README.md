@@ -9,8 +9,9 @@
 <img src="https://img.shields.io/badge/licence-MIT-lightgray.svg" alt="Licence MIT"/>
 </p>
 
-## Ответы на вопросы
-* находятся в файле [README.pdf](/README.pdf)
+## Информация для проверяющего
+* ответы на вопросы находятся в файле [README.pdf](/README.pdf)
+* код к каждому заданию находится в папке под номером, который соответствуют номеру задания
 
 ## Main functionality
 * uses `var_dump` & `echo`
